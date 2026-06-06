@@ -1,0 +1,23 @@
+services:
+  nominatim:
+    image: mediagis/nominatim:5.1
+    container_name: nominatim
+    ports:
+      - "8080:8080"   # API
+      - "5555:5432"   # PostgreSQL
+    environment:
+      - PBF_URL=https://download.openstreetmap.fr/extracts/south-america/brazil/southeast/rio-de-janeiro.osm.pbf
+    restart: unless-stopped
+
+  nominatim-ui:
+    image: nginx:alpine
+    container_name: nominatim-ui
+    ports:
+      - "8081:80"   # UI
+    depends_on:
+      - nominatim
+    restart: unless-stopped
+    volumes:
+      # Monta a dist local para dentro do container
+        - ./nominatim-ui/dist:/usr/share/nginx/html
+        - ./nominatim-ui/nginx.conf:/etc/nginx/conf.d/default.conf

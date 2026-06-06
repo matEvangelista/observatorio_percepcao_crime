@@ -1,0 +1,33 @@
+[project]
+name = "tcc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "browser-cookie3>=0.20.1",
+    "contextily>=1.7.0",
+    "folium>=0.20.0",
+    "geoalchemy2>=0.18.0",
+    "geopandas>=1.1.1",
+    "instaloader>=4.15",
+    "langchain>=1.0.3",
+    "langchain-google-genai>=4.2.0",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.0.1",
+    "langfuse>=3.12.1",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.7",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "psycopg2-binary>=2.9.11",
+    "psycopg[binary]>=3.2.12",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "shapely>=2.1.2",
+    "sqlalchemy>=2.0.44",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+]
