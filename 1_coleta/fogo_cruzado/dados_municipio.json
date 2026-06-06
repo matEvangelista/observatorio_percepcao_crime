@@ -1,0 +1,191 @@
+[
+    {
+        "nome_cidade": "Belford Roxo",
+        "cod_ibge_cidade": 3300456.0,
+        "cidade_id": 3602.0,
+        "gentilico_cidade": "belford-roxense",
+        "populacao_cidade": 469332.0,
+        "area_cidade": 7782.0,
+        "densidade_demo_cidade": 6.03
+    },
+    {
+        "nome_cidade": "Cachoeiras de Macacu",
+        "cod_ibge_cidade": 3300803.0,
+        "cidade_id": 3606.0,
+        "gentilico_cidade": "cachoeirense",
+        "populacao_cidade": 54273.0,
+        "area_cidade": 95380.0,
+        "densidade_demo_cidade": 56.9
+    },
+    {
+        "nome_cidade": "Duque de Caxias",
+        "cod_ibge_cidade": 3301702.0,
+        "cidade_id": 3618.0,
+        "gentilico_cidade": "caxiense",
+        "populacao_cidade": 855048.0,
+        "area_cidade": 46762.0,
+        "densidade_demo_cidade": 1.83
+    },
+    {
+        "nome_cidade": "Guapimirim",
+        "cod_ibge_cidade": 3301850.0,
+        "cidade_id": 3620.0,
+        "gentilico_cidade": "guapimiriense",
+        "populacao_cidade": 51483.0,
+        "area_cidade": 36077.0,
+        "densidade_demo_cidade": 142.7
+    },
+    {
+        "nome_cidade": "Tanguá",
+        "cod_ibge_cidade": 3305752.0,
+        "cidade_id": 3678.0,
+        "gentilico_cidade": "tanguaense",
+        "populacao_cidade": 30732.0,
+        "area_cidade": 14550.0,
+        "densidade_demo_cidade": 211.2
+    },
+    {
+        "nome_cidade": "Itaboraí",
+        "cod_ibge_cidade": 3301900.0,
+        "cidade_id": 3622.0,
+        "gentilico_cidade": "itaboraiense",
+        "populacao_cidade": 218008.0,
+        "area_cidade": 43037.0,
+        "densidade_demo_cidade": 506.6
+    },
+    {
+        "nome_cidade": "Itaguaí",
+        "cod_ibge_cidade": 3302007.0,
+        "cidade_id": 3623.0,
+        "gentilico_cidade": "itaguaiense",
+        "populacao_cidade": 109091.0,
+        "area_cidade": 27588.0,
+        "densidade_demo_cidade": 395.5
+    },
+    {
+        "nome_cidade": "Japeri",
+        "cod_ibge_cidade": 3302270.0,
+        "cidade_id": 3628.0,
+        "gentilico_cidade": "japeriense",
+        "populacao_cidade": 95492.0,
+        "area_cidade": 8187.0,
+        "densidade_demo_cidade": 1.17
+    },
+    {
+        "nome_cidade": "Magé",
+        "cod_ibge_cidade": 3302502.0,
+        "cidade_id": 3632.0,
+        "gentilico_cidade": "mageense",
+        "populacao_cidade": 227322.0,
+        "area_cidade": 38850.0,
+        "densidade_demo_cidade": 585.1
+    },
+    {
+        "nome_cidade": "Maricá",
+        "cod_ibge_cidade": 3302700.0,
+        "cidade_id": 3634.0,
+        "gentilico_cidade": "maricaense",
+        "populacao_cidade": 127461.0,
+        "area_cidade": 36257.0,
+        "densidade_demo_cidade": 351.6
+    },
+    {
+        "nome_cidade": "Mesquita",
+        "cod_ibge_cidade": 3302858.0,
+        "cidade_id": 3636.0,
+        "gentilico_cidade": "mesquitense",
+        "populacao_cidade": 168376.0,
+        "area_cidade": 3906.0,
+        "densidade_demo_cidade": 4.31
+    },
+    {
+        "nome_cidade": "Nilópolis",
+        "cod_ibge_cidade": 3303203.0,
+        "cidade_id": 3640.0,
+        "gentilico_cidade": "nilopolitano",
+        "populacao_cidade": 157425.0,
+        "area_cidade": 1939.0,
+        "densidade_demo_cidade": 8.12
+    },
+    {
+        "nome_cidade": "Niterói",
+        "cod_ibge_cidade": 3303302.0,
+        "cidade_id": 3641.0,
+        "gentilico_cidade": "niteroiense",
+        "populacao_cidade": 487562.0,
+        "area_cidade": 13392.0,
+        "densidade_demo_cidade": 3.64
+    },
+    {
+        "nome_cidade": "Nova Iguaçu",
+        "cod_ibge_cidade": 3303500.0,
+        "cidade_id": 3643.0,
+        "gentilico_cidade": "iguaçuano",
+        "populacao_cidade": 796257.0,
+        "area_cidade": 52125.0,
+        "densidade_demo_cidade": 1.53
+    },
+    {
+        "nome_cidade": "Paracambi",
+        "cod_ibge_cidade": 3303609.0,
+        "cidade_id": 3644.0,
+        "gentilico_cidade": "paracambiense",
+        "populacao_cidade": 47124.0,
+        "area_cidade": 17968.0,
+        "densidade_demo_cidade": 262.3
+    },
+    {
+        "nome_cidade": "Queimados",
+        "cod_ibge_cidade": 3304144.0,
+        "cidade_id": 3654.0,
+        "gentilico_cidade": "queimadense",
+        "populacao_cidade": 137962.0,
+        "area_cidade": 7570.0,
+        "densidade_demo_cidade": 1.82
+    },
+    {
+        "nome_cidade": "Rio Bonito",
+        "cod_ibge_cidade": 3304300.0,
+        "cidade_id": 3657.0,
+        "gentilico_cidade": "rio-bonitense",
+        "populacao_cidade": 55551.0,
+        "area_cidade": 45646.0,
+        "densidade_demo_cidade": 121.7
+    },
+    {
+        "nome_cidade": "Rio de Janeiro",
+        "cod_ibge_cidade": 3304557.0,
+        "cidade_id": 3661.0,
+        "gentilico_cidade": "carioca",
+        "populacao_cidade": 6320446.0,
+        "area_cidade": 119746.0,
+        "densidade_demo_cidade": 5.27
+    },
+    {
+        "nome_cidade": "São João de Meriti",
+        "cod_ibge_cidade": 3305109.0,
+        "cidade_id": 3668.0,
+        "gentilico_cidade": "meritiense",
+        "populacao_cidade": 458673.0,
+        "area_cidade": 3522.0,
+        "densidade_demo_cidade": 13.02
+    },
+    {
+        "nome_cidade": "Seropédica",
+        "cod_ibge_cidade": 3305554.0,
+        "cidade_id": 3675.0,
+        "gentilico_cidade": "seropediquense",
+        "populacao_cidade": 78186.0,
+        "area_cidade": 28376.0,
+        "densidade_demo_cidade": 275.5
+    },
+    {
+        "nome_cidade": "São Gonçalo",
+        "cod_ibge_cidade": 3304904.0,
+        "cidade_id": 3666.0,
+        "gentilico_cidade": "gonçalense",
+        "populacao_cidade": 999728.0,
+        "area_cidade": 24771.0,
+        "densidade_demo_cidade": 4.04
+    }
+]
